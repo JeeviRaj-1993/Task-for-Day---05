@@ -1,0 +1,9 @@
+let student1 = [51,64,66,46,46,91,6,643,555,616,562,665]
+for(let ind in student1){
+    console.log(ind)
+}
+
+let student2 = [51,64,66,46,46,91,6,643,555,616,562,665]
+for(let num of student1){
+    console.log(num)
+}

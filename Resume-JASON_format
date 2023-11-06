@@ -1,0 +1,39 @@
+const myResume = {
+    Name : "Siranjeevi",
+    Age  : "29",
+    Place: "Tirupattur",
+    email : "chiruraj@gmail.com",
+    Mobilenumber : "6380841248",
+    Qualification : [
+        {
+            Level : "UG",
+            Dep   : "Civil",
+            Institute : "PSV College Of Engineering & Tech",
+            Percentage : "70",
+         },
+         {
+            Level : "Diploma",
+            Dep   : "Civil",
+            Institute : "Sri Nandhanam College Of Engineering & Tech",
+            Percentage : "80",
+        },
+        {
+            Level : "Hsc",
+            Dep : "Bio & Maths",
+            Institute : "TMS Hr Sec School",
+
+        },
+        {  
+            Level : "SSLC",
+            Institute : "TMS Hr Sec School",
+        }
+    ],
+           
+            languageKnown : ["Tamil","English","Telugu","Kannada","Hindhi"],
+            ProgrammingLanguage : ["javaScript","Node.js","Html","Css"],
+        
+           
+
+    
+}
+        console.log(myResume);
